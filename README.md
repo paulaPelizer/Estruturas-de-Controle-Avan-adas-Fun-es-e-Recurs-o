@@ -1,5 +1,7 @@
 EXERCÍCIOS: Estruturas de Controle Avançadas, Funções e Recursão (Interativo)
 
+Link: https://paulapelizer.github.io/Estruturas-de-Controle-Avan-adas-Fun-es-e-Recurs-o/
+
 Este projeto é uma aplicação interativa em HTML, CSS e JavaScript desenvolvida para apresentar, de forma visual e dinâmica, os conceitos de estruturas de controle, funções, recursão, debounce, memoization, arrays e manipulação de objetos em JavaScript.  
 Consiste em realização da Lista de Exercícios 2 do programa +prati.
 
